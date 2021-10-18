@@ -2,7 +2,7 @@
 Hello there 👋 I am <a href="#">Eric N</a>!
 </h1>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/erhic18?style=social) | ![GitHub followers](https://img.shields.io/github/followers/erhic?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7818605)
+![Twitter Follow](https://img.shields.io/twitter/follow/erhic18?style=social) | ![GitHub followers](https://img.shields.io/github/followers/erhic?style=social) | ![Stack Exchange reputation](https://stackoverflow.com/users/17179261/erhic)
 
 ## My Github Stats
 
