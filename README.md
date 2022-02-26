@@ -4,6 +4,10 @@ Hello there 👋 I am <a href="#">Eric N</a>!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/erhic18?style=social) | ![GitHub followers](https://img.shields.io/github/followers/erhic?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/7818605)
 
+<br>
+<p align="center">  
+<a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="erhic'c Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erhic&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
+</p>
 ## My Github Stats
 
 <div style="display: flex;">
