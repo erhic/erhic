@@ -8,8 +8,8 @@ Hello there 👋 I am <a href="#">Eric N</a>!
 <p align="center">  
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="erhic'c Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erhic&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
 </p>
-## My Github Stats
 
+## My Github Stats
 <div align="center" style="display: flex;">
     <div style="width: 50%;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=erhic&theme=gotham" />
