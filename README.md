@@ -10,7 +10,7 @@ Hello there 👋 I am <a href="#">Eric N</a>!
 </p>
 ## My Github Stats
 
-<div style="display: flex;">
+<div align="center" style="display: flex;">
     <div style="width: 50%;">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=erhic&theme=gotham" />
     </div>
