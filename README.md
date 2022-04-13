@@ -2,12 +2,12 @@
 Hello there 👋 I am <a href="#">Eric N</a>!
 </h1>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/erhic18?style=social) | ![GitHub followers](https://img.shields.io/github/followers/erhic?style=social) | 
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/erhic18?style=social) | ![GitHub followers](https://img.shields.io/github/followers/erhic?style=social) | 
 
 <br>
 <p align="center">  
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="erhic'c Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=erhic&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
-</p>
+</p> -->
 
 ## My Github Stats
 <div align="center" style="display: flex;">
