@@ -1,4 +1,4 @@
-<!-- <h1 align="center">
+ <h1 align="center">
 Hello there 👋 I am <a href="#">Eric N</a>!
 </h1>
 
@@ -18,4 +18,4 @@ Hello there 👋 I am <a href="#">Eric N</a>!
         <img src="https://github-readme-stats.vercel.app/api?username=erhic&theme=gotham&custom_title=erhic%20github%20stats" />
     </div>
 </div>
- -->
+
