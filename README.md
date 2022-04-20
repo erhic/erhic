@@ -1,5 +1,5 @@
  <h1 align="center">
-Hello there 👋 I am <a href="#">Eric N</a>!
+Hello there 👋 I am <a href="#">Eric </a>
 </h1>
 
 <!-- ![Twitter Follow](https://img.shields.io/twitter/follow/erhic18?style=social) | ![GitHub followers](https://img.shields.io/github/followers/erhic?style=social) | 
