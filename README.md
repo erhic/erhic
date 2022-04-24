@@ -19,3 +19,7 @@ Hello there 👋, I am <a href="#">Eric </a>
     </div>
 </div>
 
+### My GitHub stats
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erhic&hide=html&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="marthamwangi's github stats" src="https://github-readme-stats.vercel.app/api?username=erhic&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
+
+
